@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import QuizApp from './quiz/homepage';
+import QuizApp from './quiz/Homepage';
 function App() {
   return (
     <div className="App">
